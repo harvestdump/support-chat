@@ -28,7 +28,7 @@
   "homepage": "https://github.com/Fabryz/support-chat#readme",
   "dependencies": {
     "express": "^4.21.1",
-    "socket.io": "^4.7.4"
+    "socket.io": "^4.8.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
